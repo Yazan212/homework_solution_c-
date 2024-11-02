@@ -38,6 +38,9 @@ std::string addBinary(const std::string a, const std::string b)
     return result;
 }
 
+
+
+
 int main()
 {
     std::string binary1, binary2;
