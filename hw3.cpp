@@ -8,7 +8,7 @@ int main()
     int mat[100][100];
     bool mat_vis[100][100];
 
-    std::cout << "Enter the values of m, n :" std::cin >> m >> n;
+    std::cout << "Enter the values of m, n :"; std::cin >> m >> n;
 
     std::cout << "Enter the total number of integers in the linked list: ";
     std::cin >> head_size;
